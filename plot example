@@ -6,3 +6,4 @@ plt.xlabel('Day')
 plt.ylabel('Temperature')
 plt.title('Weather Chart')
 plt.show() 
+https://github.com/codebasics/py
