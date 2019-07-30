@@ -8,3 +8,4 @@ with sr.Microphone() as source:
     
 text = r.recognize_google(audio)
 print (text)
+https://github.com/MauryaRitesh?tab=repositories
